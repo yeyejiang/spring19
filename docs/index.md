@@ -43,6 +43,8 @@
 
 [Leaflet vs. Parcoords](xx2295.html)
 
+[plot_ly vs. ggplotly](5293_community_contribution.html)
+
 #### Writing Reports
 
 
